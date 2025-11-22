@@ -1,4 +1,4 @@
-<img width="3838" height="1936" alt="image" src="https://github.com/user-attachments/assets/c8402e00-67bc-4da9-973b-8a1f336c2d6f" /># E-commerce-AI-Agent-Powered-by-Parallax
+# E-commerce-AI-Agent-Powered-by-Parallax
 一个基于 Parallax 框架构建的、注重隐私保护的本地化跨境电商 AI 客服智能体。
 # 🛍️ Secure Cross-Border E-commerce AI Agent (Powered by Gradient Parallax)
 # 基于 Parallax 的跨境电商隐私保护 AI 客服
